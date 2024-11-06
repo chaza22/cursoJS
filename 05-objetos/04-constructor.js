@@ -3,4 +3,4 @@ function sumarDeados(numero){
     numero * 2
 }
 
-console.log(sumarDeados(4))
+console.log(sumarDeados(4))faf
