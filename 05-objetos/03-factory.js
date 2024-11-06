@@ -32,5 +32,5 @@ function crearUsuario(nombre, email) {
 //para poder usar esta funcion y asi poder crear objetos de usuarios tenemos que hacer lo siguiente
 let user1 = crearUsuario('thomas', 'chaza700@gmail.com')
 let user2 = crearUsuario('alfredo', 'chaza70@gmail.com')//si queremos crear multiples usuarios lo copiamos y cambiamos los valores
-console.log(user1, user2)
+console.log(user1, user2);
 //las factory funcution tiene que usar camelCase, generalmente empiezan con crear o create
