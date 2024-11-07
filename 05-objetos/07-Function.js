@@ -22,4 +22,5 @@ Punto.call(punto, 1, 2);//el primer argumento es el contexto de "this" este pasa
 console.log(punto);
 //con esto nosotros podemos reutilizar codigo, sea definiendo un objeto se lo pasamos a otra funcion y esta se va a encargar de exterderlo 
 Punto.apply(punto, [1, 2]);
+//".apply" hace lo mismo que .call, con la diferencia que todos los argumentos que le pasemos se los tenemos que entregar con la dorma de un array
 console.log(punto);
