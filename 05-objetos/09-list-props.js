@@ -22,3 +22,4 @@ for (let entry of Object.entries(punto)) {
 }//nos da un array con su propiedad y su valor, esto nos sirve para acceder a las propiedades de un objeto cuando nosotros no conocemos sus propiedades 
 
 //cuando el constructor de object tiene metodos como ".keys", ".entries" a estos se los llama metodos de clase o metodos estaticos 
+//xd
